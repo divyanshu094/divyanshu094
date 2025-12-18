@@ -1,41 +1,58 @@
 ## 👋 Hi, I’m Divyanshu Kumar
 
-🚀 Senior Software Engineer with **8+ years of experience** in building scalable **mobile and web applications** using Angular and Ionic.
+🚀 **Senior Software Engineer** with **8+ years of experience** building scalable **mobile and web applications** using **Angular & Ionic**.
 
 ---
 
 ### 💼 About Me
 - 📱 Specialized in **cross-platform mobile development** (Ionic, Capacitor, Cordova)
-- 🌐 Strong experience in **Angular & TypeScript** for enterprise web apps
+- 🌐 Strong experience in **Angular & TypeScript** for enterprise web applications
 - ⚙️ Expert in **REST API integration**, performance optimization, and clean architecture
-- 🧩 Passionate about building **maintainable, scalable, and user-centric applications**
+- 🧩 Passionate about building **maintainable, scalable, and user-centric products**
 
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** Angular, Ionic, HTML5, CSS3
-- **Languages:** TypeScript, JavaScript (ES6+)
-- **Mobile:** Ionic, Capacitor, Cordova, Android
-- **APIs:** RESTful APIs, Google APIs
-- **Databases:** SQLite, Room DB
-- **Tools:** Git, Postman, NPM
-- **Cloud & DevOps:** AWS, CI/CD
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ### 📌 Experience Highlights
 - Delivered **10+ enterprise & government mobile applications**
-- Improved app performance and stability by **20–30%**
-- Built reusable UI components reducing development time by **25%**
-- Worked on large-scale platforms like **Jan Soochna, Rajasthan Sampark, and Smart City Apps**
+- Improved application performance and stability by **20–30%**
+- Built **reusable UI components**, reducing development time by **25%**
+- Worked on large-scale platforms like **Jan Soochna, Rajasthan Sampark, Smart City Apps**
+
+---
+
+### 🧩 Featured Projects
+- **Rajasthan Government Apps**  
+  Citizen service platforms for grievance redressal, analytics, and real-time tracking  
+  _Angular, Ionic, TypeScript, REST APIs_
+
+- **NARES BLP**  
+  Blended learning platform with video conferencing and analytics  
+  _Android, WebRTC, Room DB_
+
+- **MobilitySQR**  
+  Web platform for global mobility process automation  
+  _Angular, TypeScript, REST APIs_
 
 ---
 
 ### 🤝 Open to Collaborate On
 - Angular & Ionic applications
-- Mobile-first & cross-platform projects
+- Mobile-first & cross-platform solutions
 - Performance optimization & refactoring
-- Enterprise & government platforms
+- Enterprise & government-scale platforms
 
 ---
 
@@ -45,7 +62,7 @@
 
 ---
 
-⭐ *Clean code • Scalable architecture • Real-world impact*
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshu094&show_icons=true&theme=default)
+
+⭐ *Clean code • Scalable architecture • Real-world impact*
