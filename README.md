@@ -23,8 +23,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- **Frontend:** Angular, Ionic, HTML5, CSS3
-- **Languages:** TypeScript, JavaScript (ES6+)
+- **Frontend:** Angular, React, Ionic, HTML5, CSS3
+- **Languages:** TypeScript, JavaScript (ES6+) , Node
 - **Mobile:** Ionic, Capacitor, Cordova, Android
 - **APIs:** RESTful APIs, Google APIs
 - **Databases:** SQLite, Room DB
