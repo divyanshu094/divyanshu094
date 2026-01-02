@@ -57,7 +57,7 @@
 ---
 
 ### 🤝 Open to Collaborate On
-- Angular & Ionic applications
+- Angular , React & Ionic applications
 - Mobile-first & cross-platform solutions
 - Performance optimization & refactoring
 - Enterprise & government-scale platforms
